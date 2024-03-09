@@ -1,0 +1,6 @@
+name: yak
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - yak
