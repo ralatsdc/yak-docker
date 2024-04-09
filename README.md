@@ -1,3 +1,5 @@
+[![Build a Docker image](https://github.com/adeslatt/yak-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/adeslatt/yak-docker/actions/workflows/docker-image.yml)[![Build and push a Docker image](https://github.com/adeslatt/yak-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/adeslatt/yak-docker/actions/workflows/docker-publish.yml)
+
 # yak-docker
 
 [yak](https://github.com/lh3/yak) robustly estimates the base accuracy of CCS reads and assembly contigs, and investigates the systematic error rate of CCS reads. yak-docker provides Docker files and GitHub Action workflows for building and publishing a Docker image so that yak can be used in the [sync-seq](https://github.com/adeslatt/sync-seq) workflow.
